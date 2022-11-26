@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDivider", "StringDivider\StringDivider.csproj", "{B8B31172-DA8D-4CD9-B9C0-FE904A4E83CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDivider.ConsoleApp", "StringDivider.ConsoleApp\StringDivider.ConsoleApp.csproj", "{24CD3D82-DA13-48B4-A365-9E34187E7CD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B31172-DA8D-4CD9-B9C0-FE904A4E83CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B31172-DA8D-4CD9-B9C0-FE904A4E83CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B31172-DA8D-4CD9-B9C0-FE904A4E83CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B31172-DA8D-4CD9-B9C0-FE904A4E83CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CD3D82-DA13-48B4-A365-9E34187E7CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CD3D82-DA13-48B4-A365-9E34187E7CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CD3D82-DA13-48B4-A365-9E34187E7CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CD3D82-DA13-48B4-A365-9E34187E7CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC2AE951-0789-4508-BAAC-B00BB3E0A827}
+	EndGlobalSection
+EndGlobal
